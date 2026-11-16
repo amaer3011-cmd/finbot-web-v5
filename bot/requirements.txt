@@ -1,0 +1,6 @@
+# رقم playwright لازم يطابق صورة الـ Dockerfile (mcr.microsoft.com/playwright/python:v1.48.0-jammy)
+playwright==1.48.0
+# 22.7+ مطلوبة لأزرار تيليجرام الملوّنة (style=success/primary/danger)
+python-telegram-bot>=22.7,<23
+python-dotenv>=1.0,<2
+Pillow>=10.0
