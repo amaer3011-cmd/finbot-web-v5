@@ -5,7 +5,6 @@ __pycache__/
 *.db-journal
 *.db-shm
 *.db-wal
-answers.txt
 api_capture.json
 *.log
 .venv/
