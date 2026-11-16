@@ -1,0 +1,16 @@
+# أسرار — ممنوع تدخل الصورة أبداً (بوت التليجرام فيه BOT_TOKEN)
+**/.env
+**/.env.*
+!**/.env.example
+.git
+.gitignore
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/*.db
+**/*.db-journal
+**/tests
+*.zip
+*.rar
+.venv
+venv

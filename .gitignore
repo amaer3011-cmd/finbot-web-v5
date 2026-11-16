@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+answers.txt
+api_capture.json
+*.log
+.venv/
+venv/
